@@ -43,12 +43,14 @@ Governed agent harnesses, agent-ready data architecture, and the seam where a da
 
 ## Writing
 
-**Modern Data 101** (byline):
+Selected essays (byline):
+- [Rethinking Data Movement: A First Principles Approach](https://moderndata101.substack.com/p/rethinking-data-movement-a-first)
+- [How to Control AI Agents With the Data Platform You Already Have](https://moderndata101.substack.com/p/how-to-control-ai-agents-with-data-platform)
 - [Why Your Data Platform Isn't Wired for AI](https://www.themoderndatacompany.com/blog/high-performing-agent-architecture): the platform as the agent harness.
 - [The Economics of Agentic AI: You Can't Control Costs You Can't Trace](https://www.themoderndatacompany.com/blog/ai-agent-cost-attribution)
 - [The Semantic Layer and Governance a "Company Brain" Needs](https://www.themoderndatacompany.com/blog/company-brain-semantic-layer)
 
-**Intelligence Is a System** (Substack): [essays](https://intelligenceisasystem.substack.com/)
+My own writing lives on **Intelligence Is a System**: [essays](https://intelligenceisasystem.substack.com/)
 
 <!-- TODO: add the Grounded series posts as they publish. -->
 
